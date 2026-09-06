@@ -51,6 +51,15 @@ I am an **AI Engineer** at **Tata Consultancy Services (TCS)** with ~2 years of 
 
 ---
 
+## 🏆 Achievements & Hackathons
+
+- 🏅 **Rank #7** — *PromptWars: Hyderabad* — Google / hack2skill AI Hackathon (July 2026)
+- 🏅 **Top 10** — *TCS Internal Hackathon* — AI/LLM & RAG track, selected from hundreds of internal submissions nationwide
+- 🥉 **Rank #3** — *Inter-Departmental Mini Project Exhibition* — outperformed 25 competing teams
+- 🏅 **Rank #5** — *DevHacks 1.0 National Level Hackathon* — competed against 150+ participants across India
+
+---
+
 ## 📜 Certifications & Credentials
 
 - 🟧 **Amazon Web Services (AWS):**
