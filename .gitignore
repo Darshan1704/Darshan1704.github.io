@@ -1,0 +1,11 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
